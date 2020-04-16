@@ -1,2 +1,3 @@
 # simopt-data-farming
-SimOpt + Data Farming
+
+Supporting data farming experiments in SimOpt testbed.
